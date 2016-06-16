@@ -12,4 +12,7 @@ citing_refs.py
 cited_ref_data.py
 ref_links.py
 
-Output files are 5 excel sheets for each journal: Actual Data sheet, Cited references data sheet, Cited references connecting sheet, Citing references data sheet and Citing references connecting sheet
+Output files are 5 excel sheets for each journal: Actual Data sheet, Cited references data sheet, Cited references connecting sheet, Citing references data sheet and Citing references connecting sheet.
+
+The main purpose of the project is educational.
+An example data mining project for social network analysis.
