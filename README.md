@@ -16,3 +16,4 @@ Output files are 5 excel sheets for each journal: Actual Data sheet, Cited refer
 
 The main purpose of the project is educational.
 An example data mining project for social network analysis.
+Manual in WOS Tasks.xlsx
